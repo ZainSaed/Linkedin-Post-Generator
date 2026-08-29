@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+requests
+itsdangerous
+langgraph
+langchain
+langchain-google-genai
+tavily-python
+
